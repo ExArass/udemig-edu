@@ -9,3 +9,4 @@ While creating this project page, html, css and bootstrap were used. A clear pag
 -Responsive
 
 #Page preview
+![udemig-ude](https://github.com/ExArass/udemig-edu/assets/119482782/140d9bc9-e5a3-455b-8ca0-f92993028965)
